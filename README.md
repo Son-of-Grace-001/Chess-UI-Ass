@@ -1,1 +1,1 @@
-# Chess-UI-Ass
+this repository is all about chess game ui interface
